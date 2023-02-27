@@ -1,0 +1,628 @@
+WT/,Complainant,Title,Request.for.consultations,Request.for.establishment,Panel.estblhd,Panel.composed,Panel.report.circulated,Appeal.notified,AB.report.circulated,Panel.AB.report.s..adopted,Art.21.5.request.for.establishment,Art.21.5.Referral.to.original.panel,Art.21.5.panel.composed,Art..21.5.report.circulated,Art.21.5.Appeal.notified,Art..21.5.AB.report.circulated,Art.21.5.Panel.AB.report.s..adopted,index
+DS No.,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DS1,Singapore,Malaysia - Prohibition of Imports of Polyethylene and Polypropylene,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS2,Venezuela,US – Gasoline,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS4,Brazil,US – Gasoline,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS3,US,Korea - Measures Concerning the Testing and Inspection of Agricultural Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS5,US,Korea - Shelf-Life of Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS6,Japan,US - 1974 Trade Act,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS7,Canada,EC – Scallops (Canada),1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,4
+DS8,EC,Japan – Alcoholic Beverages II,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS10,Canada,Japan – Alcoholic Beverages II,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS11,US,Japan – Alcoholic Beverages II,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS9,Canada,EC - Duties on Imports of Cereals,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS12,Peru,EC – Scallops (Peru and Chile),1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS14,Chile,EC – Scallops (Peru and Chile),1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS13,US,EC - Duties on Imports of Grain,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS15,EC,Japan - Measures Affecting the Purchase of Telecommunications Equipment,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS16,Guatemala,"EC - Regime for the Importation, Sale and Distribution of Bananas",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS16,Honduras,"EC - Regime for the Importation, Sale and Distribution of Bananas",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS16,"Mexico
+","EC - Regime for the Importation, Sale and Distribution of Bananas",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS16,US,"EC - Regime for the Importation, Sale and Distribution of Bananas",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS17,Thailand,EC - Duties on Imports of Rice,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS18,Canada,Australia – Salmon,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,13
+DS19,India,Poland - Import Regime for Automobiles,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS20,Canada,Korea - Measures Concerning the Bottled Water,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS21,US,Australia - Measures Affecting the Importation of Salmonids,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS22,Philippines,Brazil – Desiccated Coconut,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS23,Mexico,Venezuela - Anti-Dumping Investigation in Respect of Imports of Certain OCTG,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS24,Costa Rica,US – Underwear,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS25,Uruguay,EC - Implementation of the Uruguay Round Commitments Concerning Rice,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS26,US,EC – Hormones,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS48,Canada,EC – Hormones,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5
+DS27,Ecuador,EC – Bananas III,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,12
+DS27,Guatemala,EC – Bananas III,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,9
+DS27,Mexico,EC – Bananas III,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,13
+DS27,Honduras,EC – Bananas III,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+DS27,US,EC – Bananas III,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS28,US,Japan - Measures Concerning Sound Recordings,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS28,China,Turkey - Restrictions on Imports of Textile and Clothing Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS29,Hong Kong,Turkey - Restrictions on Imports of Textile and Clothing Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS30,Sri Lanka,Brazil - Countervailing Duties on Imports of Desiccated Coconut and Coconut Milk Powder from Sri Lanka,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS31,US,Canada – Periodicals,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS32,India,US - Measures Affecting Imports of Women's and Girls' Wool Coats,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS33,India,US – Wool Shirts and Blouses,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS34,India,Turkey – Textiles,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS35,"Argentina, Australia, Canada, New Zealand, Thailand, US",Hungary - Export Subsidies in Respect of Agricultural Products,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS36,US,Pakistan- Patent Protection for Pharmaceutical and Agricultural Chemical Products,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS37,US,Portugal - Patent Protection under the Industrial Property Act,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS38,EC,US - The Cuban Liberty and Democratic Solidarity Act,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS39,EC,US - Tariff Increases on Products from the EC,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS40,EC,"Korea - Laws, Regulations and Practices in the Telecommunications Procurement Sector",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS41,US,Korea - Measures Concerning Inspection of Agricultural Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS42,EC,Japan - Measures Concerning Sound Recordings,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS43,US,Turkey - Taxation of Foreign Film Revenues,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS44,US,Japan – Film,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS45,US,Japan - Measures Affecting Distribution Services,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS46,Canada,Brazil – Aircraft,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+DS47,Thailand,Turkey - Restrictions on Imports of Textile and Clothing Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS49,Mexico,US - Anti-Dumping Investigation Regarding Imports of Fresh or Chilled Tomatoes from Mexico,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS50,US,India – Patents (US),1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS51,Japan,Brazil - Certain Automotive Investment Measures,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS52,US,Brazil - Certain Measures Affecting Trade and Investment in the Automotive Sector,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS53,EC,Mexico - Customs Valuation of Imports,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS54,EC,Indonesia – Autos,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS55,Japan,Indonesia – Autos,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS59,US,Indonesia – Autos,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS64,Japan,Indonesia – Autos,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS56,US,Argentina – Textiles and Apparel,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS57,US,"Australia - Textile, Clothing and Footwear Import Credit Scheme",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS58,"India, Malaysia, Pakistan, Thailand",US – Shrimp,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+DS60,Mexico,Guatemala – Cement I,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS61,Philippines,US - Import Prohibition of Certain Shrimp and Shrimp Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS62,US,EC – Computer Equipment,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS63,EC,US - Anti-Dumping Measures on Imports of Solid Urea from the Former German Democratic Republic,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS65,US,Brazil - Certain Measures Affecting Trade and Investment in the Automotive Sector,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS66,EC,Japan - Measures Affecting Imports of Pork,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS69,Brazil,EC – Poultry,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS70,Brazil,Canada – Aircraft,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+DS71,Brazil,Canada - Measures Affecting the Export of Civilian Aircraft,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS72,New Zealand,EC – Butter,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,6
+DS73,EC,Japan - Procurement of a Navigation Satellite,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS74,US,Philippines - Measures Affecting Pork and Poultry,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS75,EC,Korea – Alcoholic Beverages,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS84,US,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS76,US,Japan – Agricultural Products II,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS77,EC,"Argentina - Measures Affecting Textiles, Clothing and Footwear",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS78,Colombia,US - Safeguard Measure Against Imports of Broom Corn Brooms,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS79,EC,India – Patents (EC),1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS80,US,Belgium   - Measures Affecting Commercial Telephone Directory Services,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS81,EC,Brazil - Certain Measures Affecting Trade and Investment in the Automotive Sector,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS82,US,Ireland - Measures Affecting the Grant of Copyright and neighbouring Rights,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS83,US,Denmark - Measures Affecting the Reinforcement of Intellectual Property Rights,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS85,EC,US - Measures Affecting Textiles and Apparel Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS86,US,Sweden - Measures Affecting the Enforcement of Intellectual Property Rights,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS87,EC,Chile – Alcoholic Beverages,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS110,EC,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS88,EC,US - Government Procurement (EU)(Japan,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS95,Japan,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS89,Korea,US - Colour Televisions,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS90,US,India – Quantitative Restrictions,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS91,Australia,India – Quantitative Restrictions,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS92,Canada,India – Quantitative Restrictions,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS93,New Zealand,India – Quantitative Restrictions,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS94,Switzerland,India – Quantitative Restrictions,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS96,EC,India – Quantitative Restrictions,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS97,Chile,US - Countervailing Duty Investigation of Imports of Salmon From Chile,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS98,EC,Korea – Dairy,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS99,Korea,US – DRAMS,1,1,1,1,1,0,0,1,1,1,1,1,0,1,0,11
+DS100,EC,US - Measures Affecting Imports of Poultry Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS101,US,Mexico - Anti-Dumping Investigation of High-Fructose Corn Syrup (HFCS) from the United States,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS102,US,Philippines - Measures Affecting Pork and Poultry,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS103,US,Canada – Dairy,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+DS113,New Zealand,NA,1,1,0,0,0,0,0,0,1,1,1,1,1,1,1,9
+DS104,US,EC - Measures Affecting the Exportation of Processed Cheese,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS105,Panama,"EC - Regime for the Importation, Sale and Distribution of Bananas",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS106,US,Australia - Subsidies Provided to Producers and Exporters of Automotive Leather,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS107,EC,Pakistan - Export Measures Affecting Hides and Skins,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS108,EC,US – FSC,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+NA,NA,NA,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,8
+DS109,US,Chile - Taxes on Alcoholic Beverages,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS111,Argentina,US - Tariff Rate Quota for Imports of Groundnuts,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS112,Brazil,Peru - Countervailing Duty Investigation Against Imports of Buses from Brazil,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS114,EC,Canada – Pharmaceutical Patents,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS115,US,EC - Measures Affecting the Grant of Copyright and Neighbouring Rights,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS116,EC,Brazil - Measures Affecting Payment Terms for Imports,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS117,EC,Canada - Measures Affecting Film Distribution Services,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS118,EC,US - Harbour Maintenance Tax,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS119,Switzerland,Australia - Anti-Dumping Measures on Imports of Coated Woodfree Paper Sheets,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS120,EC,India - Measures Affecting Export of Certain Commodities,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS121,EC,Argentina – Footwear (EC),1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS122,Poland,Thailand – H-Beams,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS123,Indonesia,Argentina - Safeguard Measures on Imports of Footwear,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS124,US,Greece - Enforcement of Intellectual Property Rights for Motion Pictures and Television Programs,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS125,US,Greece - Enforcement of Intellectual Property Rights for Motion Pictures and Television Programs,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS126,US,Australia – Automotive Leather II,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,12
+DS127,US,Belgium - Certain Income Tax Measures Constituting Subsidies,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS128,US,Netherlands - Certain Income Tax Measures Constituting Subsidies,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS129,US,Greece - Certain Income Tax Measures Constituting Subsidies,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS130,US,Ireland - Certain Income Tax Measures Constituting Subsidies,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS131,US,France - Certain Income Tax Measures Constituting Subsidies,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS132,US,Mexico – Corn Syrup,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,14
+DS133,Switzerland,Slovak Republic - Measures Concerning the Importation of Dairy Products and the Transit of Cattle,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS134,India,EC - Restrictions on Certain Imports of Rice,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS135,Canada,EC – Asbestos,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS136,EC,US – 1916 Act,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS162,Japan,NA,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5
+DS137,Canada,EC - Measures Affecting Imports of Wood of Conifers from Canada,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS138,EC,US – Lead and Bismuth II,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,7
+DS139,Japan,Canada – Autos,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,7
+DS142,EC,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS140,India,EC - Anti-Dumping Investigations Regarding Unbleached Cotton Fabrics from India,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS141,India,EC – Bed Linen,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,14
+DS143,Hungary,Slovak Republic - Measure Affecting Import Duty on Wheat from Hungary,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS144,Canada,"US - Certain Measures Affecting the Import of Cattle, Swine and Grain from Canada",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS145,EC,Argentina - Countervailing Duties on Imports of Wheat Gluten from the EC,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS146,EC,India – Autos,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,7
+DS175,US,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS147,EC,Japan - Tariff Quotas and Subsidies Affecting Leather,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS148,Hungary,Czech Republic - Measure Affecting Import Duty on Wheat from Hungary,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS149,EC,India - Import Restrictions,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS150,EC,India - Measures Affecting Customs Duties,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS151,EC,US - Measures Affecting Textiles and Apparel Products (II),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS152,EC,US – Section 301 Trade Act,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,6
+DS153,Canada,EC - Patent Protection for Pharmaceutical and Agricultural Chemical Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS154,Brazil,EC - Measures Affecting Differential and Favourable Treatment of Coffee,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS155,EC,Argentina – Hides and Leather,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,6
+DS156,Mexico,Guatemala – Cement II,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS157,EC,Argentina - Definitive Anti-Dumping Measures on Imports of Drill Bits from Italy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS158,"Honduras, Mexico, Guatemala, Panama, the US","EC - Regime for the Importation, Sale and Distribution of Bananas",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS159,Czech Republic,Hungary - Safeguard Measure on Imports of Steel Products from the Czech Republic,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS160,EC,US – Section 110(5) Copyright Act,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS161,US,Korea – Various Measures on Beef,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS169,Australia,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS163,US,Korea – Procurement,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS164,US,Argentina - Measures Affecting Imports of Footwear,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS165,EC,US – Certain EC Products,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS166,EC,US – Wheat Gluten,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS167,Canada,US - Countervailing Duty Investigation with Respect to Live Cattle from Canada,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS168,India,South Africa - Anti-Dumping Duties on Certain Pharmaceutical Products from India,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS170,US,Canada – Patent Term,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS171,US,Argentina - Patent Protection for Pharmaceuticals and Test Data Protection for Agricultural Chemicals,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS196,US,Argentina - Certain Measures on the Protection of Patents and Test Data,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS172,US,EC - Measures Relating to the Development of a Flight Management System,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS173,US,France - Measures Relating to the Development of a Flight Management System,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS174,US,EC – Trademarks and Geographical Indications,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS290,Australia,NA,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2
+DS176,EC,US – Section 211 Appropriations Act,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS177,New Zealand,US – Lamb,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS178,Australia,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS179,Korea,US – Stainless Steel,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS180,Canada,US - Reclassification of Certain Sugar Syrups,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS181,Thailand,Colombia - Safeguard Measure on Imports of Plain Polyester Filaments from Thailand,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS182,Mexico,Ecuador -Provisional Anti-dumping Measures on Gray Portland Cement rom Mexico,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS183,EC,Mexico - Measures on Import Licensing and Minimum Import Prices,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS184,Japan,US – Hot-Rolled Steel,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS185,Costa Rica,Trinidad and Tobago - Certain Measures Affecting Imports of Pasta from Costa Rica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS186,EC,US - Section 337 of the Tariff Act of 1930 and Amendments Thereto,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS187,Costa Rica,Trinidad and Tobago- Provisional Anti-Dumping Measure on Imports of Macaroni and Spaghetti from Costa Rica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS188,Colombia,Nicaragua - Measures Affecting Imports from Honduras and Colombia,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS189,EC,Argentina – Ceramic Tiles,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS190,Brazil,Brazil - Argentina - Transitional Safeguards Measures on Certain Imports of Woven Fabrics of Cotton ad Cotton Mixtures originating in Brazil,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS191,Mexico,Ecuador - Definitive Anti-Dumping Measure on Cement from Mexico,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS192,Pakistan,US – Cotton Yarn,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS193,EC,Chile - Measures Affecting the Transit and Importation of Swordfish,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS194,Canada,US – Export Restraints,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS195,US,Philippines - Measures Affecting Trade and Investment in the Motor Vehicle Sector,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS197,US,Brazil - Measures on Minimum Import Prices,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS198,US,Romania - Measures on Minimum Import Prices,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS199,US,Brazil - Measures Affecting Patent Protection,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS200,EC,US - Section 306 of the Trade Act of 1974 and Amendments Thereto,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS201,Honduras,Nicaragua - Measures Affecting Imports from Honduras and Colombia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS202,Korea,US – Line Pipe,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS203,US,Mexico - Measures Affecting Trade in live Swine,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS204,US,Mexico – Telecoms,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS205,Thailand,Egypt - import Prohibition on Canned Tuna with Soybean Oil,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS206,India,US – Steel Plate,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS207,Argentina,Chile – Price Band System,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+DS208,Brazil,Turkey - Anti-Dumping Duty on Steel and Iron Pipe Fitting,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS209,Brazil,EC - Measures Affecting Soluble Coffee,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS210,US,Belgium - Administration of Measures Establishing Custom Duties for Rice,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS211,Turkey,Egypt – Steel Rebar,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS212,EC,US – Countervailing Measures on Certain EC Products,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,14
+DS213,EC,US – Carbon Steel,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS214,EC,US - Definitive Safeguard Measures on Imports of Steel Wire Rod and Circular Welded Quality Line Pipes,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS215,Korea,Philippines - Anti-Dumping Measures Regarding Polypropylene Resins from Korea,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS216,Brazil,Mexico - Provisional Anti-Dumping Measure on Electric Transformers,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS217,"Australia, Brazil, Chile, EC, India, Indonesia, Japan, Korea, Thailand",US – Offset Act (Byrd Amendment),1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS234,"Canada, Mexico",NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS218,Brazil,US - Countervailing Duties on Certain Carbon Steel Products from Brazil,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS219,Brazil,EC – Tube or  Pipe Fittings,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS220,Guatemala,Chile - Price Band and Safeguard Measures Relating to Certain Agricultural Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS221,Canada,US – Section 129(c)(1) UREA,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS222,Brazil,Canada –Aircraft Credits and Guarantees,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS223,US,EC - Tariff-Rate Quota on Corn Gluten Feed from the US,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS224,Brazil,US - US Patent Code,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS225,EC,US - Anti-Dumping Duties on Seamless Pipe from Italy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS226,Argentina,Chile - Provisional Safeguard Measure on Mixture of Edible Oils,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS227,Chile,Peru - Taxes on Cigarettes,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS228,Colombia,Chile - Safeguard Measures on Sugar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS229,India,Brazil - Anti-Dumping Duties on Jute Bags from India,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS230,Colombia,Chile - Safeguard Measures and Modification of Schedules Regarding Sugar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS231,Peru,EC – Sardines,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS232,Chile,Mexico - Measures Affecting the Import of Matches,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS233,India,Argentina - Measures Affecting the Import of Pharmaceutical Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS235,Poland,Slovakia - Safeguard Measure on Imports of Sugar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS236,Canada,US – Softwood Lumber III,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS237,Ecuador,Turkey - Certain Import Procedures for Fresh Fruit,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS238,Chile,Argentina – Preserved Peaches,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS239,Brazil,US - Certain Measures Regarding Anti-Dumping,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS240,Hungary,Romania - Import Prohibition on Wheat and Wheat Flour,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS241,Brazil,Argentina –  Poultry Anti-Dumping Duties,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS242,Thailand,EC - Generalized System of Preferences,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS243,India,US – Textiles Rules of Origin,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS244,Japan,US – Corrosion-Resistant Steel Sunset Review,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS245,US,Japan – Apples,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,14
+DS246,India,EC – Tariff Preferences,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS247,Canada,US - Provisional Anti-Dumping Measure on Imports of Certain Softwood Lumber from Canada,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS248,EC,US – Steel Safeguards,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS249,Japan,US – Steel Safeguards,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS251,Korea,US – Steel Safeguards,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS252,China,US – Steel Safeguards,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS253,Switzerland,US – Steel Safeguards,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS254,Norway,US – Steel Safeguards,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS258,New Zealand,US – Steel Safeguards,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS259,Brazil,US – Steel Safeguards,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS250,Brazil,US - Equalizing Excise Tax Imposed By Florida on Processed Orange and Grapefruit Products,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS255,Chile,Peru - Tax Treatment on Certain Imported Products,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS256,Hungary,Turkey - Import Ban on Pet Food from Hungary,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS257,Canada,US – Softwood Lumber IV,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+DS260,US,EC - Provisional Safeguard Measures on Imports of Certain Steel Products,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS261,Chile,Uruguay- Tax Treatment on Certain Products,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS262,EC,US - Sunset Reviews of Anti-Dumping and Countervailing Duties on Certain Steel Products from France and Germany,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS263,Argentina,EC - Measures Affecting Imports of Wine,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS264,Canada,US – Softwood Lumber V,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+DS265,Australia,EC – Export Subsidies on Sugar,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS266,Brazil,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS283,Thailand,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS267,Brazil,US – Upland Cotton,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DS268,Argentina,US – Oil Country Tubular Goods Sunset Reviews,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+DS269,Brazil,EC – Chicken Cuts,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS286,Thailand,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS270,Philippines,Australia- Certain Measures Affecting the Importation of Fresh Fruit and Vegetables,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS271,Philippines,Australia - Certain Measures Affecting the Importation of Fresh Pineapple,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS272,Argentina,Peru - Provisional Anti-Dumping Duties on Vegetable Oils from,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS273,EC,Korea – Commercial Vessels,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS274,Chinese Taipei,US - Definitive Safeguard Measures on Imports of Certain Steel Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS275,US,Venezuela - Import Licensing Measures on Certain Agricultural Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS276,US,Canada – Wheat Exports and Grain Imports,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS277,Canada,US – Softwood Lumber VI,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,14
+DS278,Argentina,Chile - Definitive Safeguard Measure on Imports of Fructose,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS279,EC,India - Import Restrictions Maintained under the Export and Import Policy 2002-2007,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS280,Mexico,US - Countervailing Duties on Steel Plate from Mexico,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS281,Mexico,US - Anti-Dumping Measures on Cement from Mexico,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS282,Mexico,US – Anti-Dumping Measures on OCTG,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,11
+DS284,Nicaragua,Mexico - Certain Measures Preventing the Importation of Black Beans from Nicaragua,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS285,Antigua and Barbuda,US – Gambling,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,14
+DS287,EC,Australia - Quarantine Regime for Imports,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS288,Turkey,South Africa - Definitive Anti-Dumping Measures on Blanketing from Turkey,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS289,Poland,Czech Republic - Additional Duty on Imports of Pig-Meat from Poland,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS291,US,EC – Approval and Marketing of Biotech Products,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS292,Canada,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS293,Argentina,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS294,EC,US – Zeroing (EC),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+DS295,US,Mexico – Anti-Dumping Measures on Rice,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS296,Korea,US – Countervailing Duty Investigation on DRAMs,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS297,Hungary,Croatia - Measure Affecting Imports of Live Animals and Meat Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS298,Guatemala,Mexico - Certain Pricing Measures for Customs Valuation and other Purposes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS299,Korea,EC – Countervailing Measures on DRAM Chips,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS300,Honduras,Dominican Republic - Measures Affecting the Importation of Cigarettes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS301,Korea,EC – Commercial Vessels,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS302,Honduras,Dominican Republic –  Import and Sale of Cigarettes,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS303,Chile,Ecuador - Definitive Safeguard Measure on Imports of Medium Density Fibreboard,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS304,EC,India - Anti-Dumping Measures on Imports of Certain Products from the EC and/or member States,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS305,US,Egypt - Measures Affecting Imports of Textile and Apparel Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS306,Bangladesh,India - Anti-Dumping Measure on Batteries from Bangladesh,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS307,Korea,EC - Aid for Commercial Vessels,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS308,US,Mexico – Taxes on Soft Drinks,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS309,US,China - Value-Added Tax on Integrated Circuits,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS310,Canada,US - Determination of the ITC in Hard Red Spring Wheat from Canada,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS311,Canada,US - Reviews of Countervailing Duty on Softwood Lumber from Canada,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS312,Indonesia,Korea – Certain Paper,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,13
+DS313,India,EC - Anti-Dumping Duties on Certain Flat Rolled Iron or Non-Alloy Steel Products from India,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS314,EC,Mexico - Provisional Countervailing Measures on Olive Oil from the EC,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS315,United States,EC – Selected Customs Matters,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS316,United States,EC and certain member States – Large Civil Aircraft,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+DS317,EC,US - Measures Affecting Trade in Large Civil Aircraft,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS318,Chinese Taipei,India - Anti-Dumping Measures on Certain Products from Chinese Taipei,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS319,EC,US - Section 776 of the Tariff Act of 1930,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS320,EC,US – Continued Suspension,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS321,EC,Canada – Continued Suspension,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS322,Japan,US – Zeroing (Japan),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+DS323,Korea,Japan – Quotas on Laver,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5
+DS324,Thailand,US - Provisional Anti-Dumping Measures on Shrimp from Thailand,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS325,Mexico,US - Anti-Dumping Determination Regarding Stainless Steel from Mexico,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS326,Chile,EC - Definitive Safeguard Measure on Salmon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS327,Pakistan,Egypt - Anti-Dumping Duties on Matches from Pakistan,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS328,Norway,EC - Definitive Safeguard Measure on Salmon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS329,Mexico,Panama - Tariff Classification of Certain Milk Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS330,EC,"Argentina - Countervailing Duties on Olive Oil, Wheat Gluten and Peaches",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS331,Guatemala,Mexico – Steel Pipes and Tubes,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS332,EC,Brazil – Retreaded Tyres,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS333,Costa Rica,Dominican Republic - Foreign Exchange Fee Affecting Imports from Costa Rica,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS334,US,Turkey – Rice,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS335,Ecuador,US – Shrimp (Ecuador),1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS336,Korea,Japan – DRAMs (Korea),1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,11
+DS337,Norway,EC – Salmon (Norway),1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS338,US,Canada - Provisional Anti-Dumping and Countervailing Duties on Grain Corn from the United States,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS339,EC,China – Auto Parts,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS340,US,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS342,Canada,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS341,EC,Mexico – Olive Oil,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS343,Thailand,US – Shrimp (Thailand),1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS345,India,US – Customs Bond Directive,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS344,Mexico,US – Stainless Steel,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,12
+DS346,Argentina,US - Anti-Dumping Administrative Review on Oil Country Tubular Goods from Argentina,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS347,US,EC and certain member States – Large Civil Aircraft (Second Complaint),1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS348,Panama,Colombia - Customs Measures on Importation of Certain Goods from Panama,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS349,Argentina,EC - Measures Affecting the Tariff Quota for Fresh or Chilled Garlic,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS350,EC,US – Continued Zeroing,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS351,Argentina,Chile - Milk Safeguards,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS356,Argentina,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS352,EC,India - Wines and Spirits,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS353,EC,US – Large Civil Aircraft (2nd complaint),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+DS354,EC,Canada - Tax Exemptions and Reductions from Wine and Beer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS355,Argentina,Brazil - Anti-Dumping Measures on  Resins,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS357,Canada,US - Subsidies and Other Domestic Support for Corn and Other Agricultural Products,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS358,US,"China - Certain Measures Granting Refunds, Reductions or Exemptions from Taxes and Other Payments",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS359,Mexico,"China - Certain Measures Granting Refunds, Reductions or Exemptions from Taxes and Other Payments",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS360,US,India – Additional Import Duties,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS361,Colombia,EC - Regime for the Importation of Bananas,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS364,Panama,EC - Regime for the Importation of Bananas,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS362,US,China – Intellectual Property Rights,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS363,US,China – Publications and Audiovisual Products,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS365,Brazil,US - Domestic Support and Export Credit Guarantees for Agricultural Products,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS366,Panama,Colombia – Ports of Entry,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS367,New Zealand,Australia – Apples,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS368,China,US - Preliminary Anti-Dumping and Countervailing Duty Determinations on Coated Free Sheet Paper from China,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS369,Canada,EC - Certain Measures Prohibiting the Importation and Marketing of Seal Products,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS370,EC,Thailand - Customs Valuation of Certain Products from the EC,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS371,Philippines,Thailand – Cigarettes (Philippines),1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,13
+DS372,EC,China - Measures Affecting Financial Information Services and Foreign Financial Suppliers,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS373,US,China - Measures Affecting Financial Services and Foreign Financial Suppliers,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS374,Indonesia,South Africa - Anti-Dumping Measures on Uncoated Woodfree Paper,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS375,US,EC – IT Products,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS376,Japan,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS377,Chinese Taipei,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS378,Canada,China - Measures Affecting Financial Information Services and Foreign Financial Information Suppliers,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS379,China,US – Anti-Dumping and Countervailing Duties (China),1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS380,EC,India - Certain Taxes and Other Measures on Imported Wines and Spirits,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS381,Mexico,US – Tuna II (Mexico),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+NA,NA,NA,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,7
+DS382,Brazil,US – Orange Juice,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS383,Thailand,US – Anti-Dumping Measures on PET Bags,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS384,Canada,US – COOL,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+DS386,Mexico,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS385,India,EC - Expiry Reviews of Anti-Dumping and Countervailing Duties Imposed on Imports of PET from India,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS387,US,"China - Grants, Loans and Other Incentives",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS388,Mexico,"China - Grants, Loans and Other Incentives",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS389,US,EC - Certain Measures Affecting Poultry Meat and Poultry Meat Products from the US,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS390,Guatemala,"China - Grants, Loans and Other Incentives",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS391,Canada,Korea – Bovine Meat (Canada),1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS392,China,US – Poultry (China),1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS393,Argentina,Chile - Anti-Dumping Measures on Imports of Wheat Flour from Argentina,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS394,US,China – Raw Materials,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS395,EC,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS398,Mexico,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS396,EC,Philippines – Distilled Spirits,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS403,US,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS397,China,EC – Fasteners (China),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+DS399,China,US – Tyres (China),1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS400,Canada,EC – Seal Products,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS401,Norway,NA,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS402,Korea,US – Zeroing (Korea),1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS404,Viet Nam,US – Shrimp (Viet Nam),1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS405,China,EU – Footwear (China),1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS406,Indonesia,US – Clove Cigarettes,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS407,EU,China - Provisional Anti-Dumping Duties on Certain Iron and Steel Fasteners,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS408,India,EU and a member state - Seizure of Generic Drugs in Transit,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS409,Brazil,EU and a member state - Seizure of Generic Drugs in Transit,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS410,Peru,Argentina - Anti-Dumping Duties on Fasteners and Chains from Peru,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS411,Ukraine,Armenia - Measures Affecting the Importation and Internal Sale of Cigarettes and Alcoholic Beverages,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS412,Japan,Canada – Renewable Energy,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS426,EU,Canada – Feed-In Tariff Program,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS413,US,China – Electronic Payment Services,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS414,US,China – GOES,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,12
+DS415,El Salvador,Dominican Republic – Safeguard Measures,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS416,Honduras,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS417,Guatemala,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS418,Costa Rica,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS419,US,China - Measures Concerning Wind Power Equipment,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS420,Korea,US - Anti-Dumping Measures on Corrosion-Resistant Carbon Steel Flat Products from Korea,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS421,Ukraine,Moldova - Measures Affecting the Importation and Internal Sale of Goods (Environmental Charge),1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS422,China,US – Shrimp and Diamond Sawblades,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS423,Moldova,Ukraine - Taxes on Distilled Spirits,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS424,EU,US - Anti-Dumping Measures on Imports of Stainless Steel Sheet and Strip in Coils from Italy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS425,EU,China – X-Ray Equipment,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS427,US,China – Broiler Products,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1,11
+DS428,India,Turkey - Safeguard Measures on Imports of Cotton Yarn (Other than Sewing Thread),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS429,Viet Nam,US – Shrimp II (Viet Nam),1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS430,US,India – Agricultural Products,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,11
+DS431,US,China – Rare Earths,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS432,EU,China – Rare Earths,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS433,Japan,China – Rare Earths,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS434,Ukraine,Australia – Tobacco Plain Packaging,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS435,Honduras,Australia – Tobacco Plain Packaging,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS441,Dominican Republic,Australia – Tobacco Plain Packaging,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS458,Cuba,Australia – Tobacco Plain Packaging,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS467,Indonesia,Australia – Tobacco Plain Packaging,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS436,India,US – Carbon Steel (India),1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,13
+DS437,China,US – Countervailing Measures (China),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,15
+DS438,EU,Argentina – Import Measures,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS444,US,Argentina – Import Measures,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS445,Japan,NA,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS439,Brazil,South Africa - Anti-Dumping Duties on Frozen Meat of Fowls from Brazil,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS440,US,China – Autos (US),1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS442,Indonesia,EU – Fatty Alcohols (Indonesia),1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,7
+DS443,Argentina,EU and a member state - Certain Measures Concerning the Importation of Biodiesels,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS446,Mexico,Argentina - Measures Affecting the Importation of Goods,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS447,Argentina,US - Animals,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS448,Argentina,US - Measures Affecting the importation of Fresh Lemons,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS449,China,US – Countervailing and Anti‑Dumping Measures (China),1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS450,US,China - Certain Measures Affecting the Automobile and Automobile Parts Industries,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS451,Mexico,China - Measures Relating to the Production and Exportation of Apparel and Textile Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS452,China,EU and certain member states - Certain Measures Affecting the Renewable Energy Generation Sector,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS453,Panama,Argentina – Financial Services,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS454,Japan,China – HP-SSST(Japan),1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS460,EU,China – HP-SSST (EU),1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS455,US,"Indonesia - Importation of Horticultural Products, Animals and Animal Products",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS456,US,India – Solar Cells,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,10
+DS457,Guatemala,Peru – Agricultural Products,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS459,Argentina,EU and certain member states - Certain Measures on the Importation and Marketing of Biodiesel and Measures Supporting the Biodiesel Industry,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS461,Panama,Colombia – Textiles,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,13
+DS462,EU,Russian Federation - Recycling Fee on Motor Vehicles,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS463,Japan,Russian Federation - Recycling Fee on Motor Vehicles,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS464,Korea,US – Washing Machines,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS465,US,"Indonesia - Importation of Horticultural Products, Animals and Animal Products",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS466,New Zealand,"Indonesia - Importation of Horticultural Products, Animals and Animal Products",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS468,Japan,Ukraine – Passenger Cars,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,7
+DS469,Denmark - Faroe Islands,EU - Measures on Atlanto-Scandian Herring,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS470,Indonesia,Pakistan - Anti-Dumping and Countervailing Duty Investigations on Certain Paper Products from Indonesia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS471,China,US – Anti-Dumping Methodologies  (China),1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS472,Japan,Brazil – Taxation,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS497,EU,Brazil – Taxation,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS473,Argentina,EU – Biodiesel,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS474,Russian Federation,EU - Cost Adjustment Methodologies and Certain Anti-Dumping Measures on Imports from Russia,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS475,EU,Russia – Pigs (EU),1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,11
+DS476,Russia,EU – Energy Package,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS477,New Zealand,Indonesia – Import Licensing Regimes,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS478,US,"Indonesia — Importation of Horticultural Products, Animals and Animal Products",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS479,EU,Russia – Commercial Vehicles,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS480,Russia,EU – Biodiesel (Indonesia),1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS481,EU,Indonesia - Recourse to Article 22.2 of the DSU in the US - Clove Cigarettes Dispute,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS482,Chinese Taipei,Canada – Welded Pipe,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS483,Canada,China – Cellulose Pulp,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS484,Brazil,Indonesia - Chicken,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,11
+DS485,EU,Russia – Tariff Treatment,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS486,Pakistan,EU – PET (Pakistan),1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS487,EU,US – Tax Incentives,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,7
+DS488,Korea,US – OCTG (Korea),1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS489,US,China - Measures Related to Demonstration Bases and Common Service Platforms Programmes,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS490,Chinese Taipei,Indonesia - Iron or Steel Products (Chinese Taipei) (Viet Nam),1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS496,Viet Nam,NA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS491,Indonesia,US ‑ Coated Paper from Indonesia,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS492,China,EU - Poultry Meat (China),1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS493,Russian Federation,Ukraine – Ammonium Nitrate (Russia),1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS494,Russian Federation,EEU – Cost Adjustment Methodologies II (Russia),1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS495,Japan,Korea – Radionuclides,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS498,Chinese Taipei,India - Anti-Dumping Duties on USB Flash Drives from Chinese Taipei,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS499,Ukraine,Russia - Railway Equipment,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS500,Pakistan,South Africa - Provisional Anti-Dumping Duties on Portland Cement from Pakistan,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS501,US,China - Tax Measures Concerning Certain Domestically Produced Aircraft,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS502,EU,Colombia – Spirits,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS503,India,US - Measures Concerning the Non-Immigrant Visas,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS504,Japan,Korea - Pneumatic Valves (Japan),1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS505,Canada,US – Supercalendered Paper,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS506,Brazil,Indonesia – Measures Concerning the Importation of Bovine Meat,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS507,Brazil,Thailand – Measures Concerning Sugar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS508,US,China – Export Duties on Certain Raw Materials,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS509,EU,China –Duties and Other Measures Concerning the Exportation of Certain Raw Materials,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS510,India,United States – Certain Measures Relating to the Renewable Energy Sector,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS511,US,China – Agricultural Producers,1,1,1,1,1,0,0,1,1,1,0,0,0,0,0,8
+DS512,Ukraine,Russia – Traffic in Transit,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS513,Turkey,Morocco - Hot-Rolled Steel  (Turkey),1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,8
+DS514,Brazil,United States – Countervailing Measures on Cold- and Hot-Rolled Steel Flat Products from Brazil,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS515,China,United States – Measures Related to Price Comparison Methodologies,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS516,China,EU – Price Comparison Methodologies,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS517,US,China – TRQs,1,1,1,1,1,0,0,1,1,1,0,0,0,0,0,8
+DS518,Japan,India – Iron and Steel Products,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS519,US,China - Subsidies to Producers of Primary Aluminium,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS520,US,Canada – Measures Governing the Sale of Wine in Grocery Stores,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS521,Russia,EU – Anti-Dumping Measures on Certain Cold-Rolled Flat Steel Products from Russia,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS522,Brazil,Canada – Commercial Aircraft,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS523,Turkey,US - Pipes and Tubes (Turkey),1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS524,Mexico,Costa Rica – Measures Concerning the Importation of Fresh Avocados from Mexico,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,5
+DS525,Russia,Ukraine – Measures Relating to Trade in Goods and Services,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS526,Qatar,"UAE – Goods, Services and IP rights",1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS527,Qatar,"Bahrain – Measures Relating to Trade in Goods and Services, and Trade-Related Aspects of Intellectual Property Rights",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS528,Qatar,"Saudi Arabia – Measures Relating to Trade in Goods and Services, and Trade-Related Aspects of Intellectual Property Rights",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS529,Indonesia,Australia – Anti-Dumping Measures on A4 Copy Paper,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS530,Ukraine,Kazakhstan – Anti-Dumping Measures on Steel Pipes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS531,US,Canada – Measures Governing the Sale of Wine in Grocery Stores (Second Complaint),1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS532,Ukraine,Russia – Measures concerning the Importation and Transit of Certain Ukrainian Products,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS533,Canada,US – Softwood Lumber VII,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS534,Canada,US – Differential Pricing Methodology,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS535,Canada,United States – Certain Systemic Trade Remedies Measures,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS536,Viet Nam,United States – Anti-Dumping Measures on Fish Fillets from Viet Nam,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS537,Australia,Canada – Measures Governing the Sale of Wine,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5
+DS538,UAE,Pakistan – Anti-Dumping Measures on Biaxially Oriented Polypropylene Film from the United Arab Emirates,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS539,Korea,US – Anti-dumping and Countervailing Duties on Certain Products and the Use of Facts Available,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS540,Viet Nam,US – Certain Measures Concerning Pangasius Seafood Products from Viet Nam,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS541,US,India – Export Related Measures,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS542,US,China - Intellectual Property Rights II,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS543,China,US - Tariff Measures on Certain Goods from China,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS544,China,US - Certain Measures on Steel and Aluminium Products,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS545,Korea,US – Safeguard Measure on PV Products,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS546,Korea,US – Safeguard Measure on Washers,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5
+DS547,India,US - Certain Measures on Steel and Aluminium Products,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS548,EU,United States – Certain Measures on Steel and Aluminium Products,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS549,EU,China - Certain Measures on the Transfer of Technology,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS550,Canada,United States – Certain Measures on Steel and Aluminium Products,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5
+DS551,Mexico,United States – Certain Measures on Steel and Aluminium Products,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5
+DS552,Norway,United States – Certain Measures on Steel and Aluminium Products,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS553,Japan,Korea - Sunset Review of Anti-Dumping Duties on Stainless Steel Bars,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5
+DS554,Russia,United States – Certain Measures on Steel and Aluminium Products,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS555,Tunisia,Morocco - Provisional Anti-Dumping Measures on School Exercise Books from Tunisia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS556,Switzerland,United States – Certain Measures on Steel and Aluminium Products,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS557,US,Canada – Additional Duties on Certain Products from the United States,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5
+DS558,US,China - Additional Duties on Certain Products from the United States,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS559,US,EU - Additional Duties on Certain Products from the United States,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS560,US,Mexico - Additional Duties on Certain Products from the United States,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,5
+DS561,US,Turkey - Additional Duties on Certain Products from the United States,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS562,China,US – Safeguard Measure on PV Products (China),1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,5
+DS563,China,United States – Certain Measures Related to Renewable Energy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS564,Turkey,United States – Certain Measures on Steel and Aluminium Products,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS565,China,United States – Tariff Measures on Certain Goods from China II,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS566,US,Russia – Additional Duties on Certain Products from the United States,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS567,Qatar,Saudi Arabia – IPRs,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS568,Brazil,China – Certain Measures concerning Imports of Sugar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS569,Ukraine,Kyrgyz Republic – Anti-Dumping Measures on Steel Pipes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS570,Ukraine,Armenia – Anti-Dumping Measures on Steel Pipes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS571,Japan,Korea - Measures affecting Trade in Commercial Vessels (Japan),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS572,Argentina,Peru – Anti-Dumping and Countervailing Measures on Biodiesel from Argentina,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS573,Thailand,Turkey – Additional Duties on Imports of Air Conditioning Machines from Thailand,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS574,Venezuela,US - Goods and Services (Venezuela),1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS575,Venezuela,Colombia - Liquid Fuels,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS576,UAE,Qatar – Certain Measures Concerning Goods from the United Arab Emirates,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS577,EU,US - Ripe Olives from Spain,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS578,Tunisia,Morocco – Definitive AD Measures on Exercise Books (Tunisia),1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS579,Brazil,India – Measures concerning Sugar and Sugarcane,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS580,Australia,India – Measures concerning Sugar and Sugarcane,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS581,Guatemala,India – Measures concerning Sugar and Sugarcane,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS582,EU,India – Tariffs on ICT Products (EU),1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS583,EU,Turkey – Pharmaceutical Products (EU),1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS584,Japan,India – Tariff Treatment on Certain Goods,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS585,US,India – Additional Duties,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS586,Russia,United States – Carbon-Quality Steel (Russia),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS587,China,United States – Tariff Measures on Certain Goods from China III,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS588,Chinese Taipei,India – Tariffs on ICT Goods (Chinese Taipei),1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS589,Canada,China - Canola Seed (Canada),1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+DS590,Korea,Japan - Products and Technology (Korea),1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+DS591,EU,Colombia – Frozen Fries,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS592,EU,Indonesia – Measures Relating to Raw Materials,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS593,Indonesia,EU – Palm Oil (Indonesia),1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS594,Japan,Korea – Commercial Vessels (Second Complaint) (Japan),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS595,Turkey,EU – Safeguard Measures on Certain Steel Products,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,6
+DS596,Peru,Brazil - PET film and other Products ,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS597,"Hong Kong, China",United States - Origin Marking Requirement,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,6
+DS598,Australia,China – AD/CVD on Barley (Australia),1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS599,Costa Rica,Panama – Import Measures (Costa Rica),1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS600,Malaysia,EU and Certain Member States – Palm Oil (Malaysia),1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS601,Japan,China - AD on Stainless Steel (Japan),1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS602,Australia,China – AD/CVD on Wine (Australia),1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS603,China,Australia – AD/CVD on Certain Products (China),1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS604,EU,Russia – Domestic and Foreign Products and Services,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS605,Costa Rica,Dominican Republic – AD on Steel Bars (Costa Rica),1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4
+DS606,Saudi Arabia,EU - Provisional AD Duty on MEG (Saudi Arabia),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS607,Brazil,EU – Poultry Meat Preparations (Brazil),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS608,EU,Russia - Wood (EU),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS609,EU,Egypt – Import Registration Requirements (EU),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS610,EU,China – Goods and Services (EU),1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS611,EU,China – IPRs Enforcement (EU),1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+DS612,EU,UK – CfD Local Content (EU),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS613,South Africa,EU - Citrus Fruit (South Africa),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS614,Argentina,Peru – Biodiesel (Argentina),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS615,China,US – Semiconductors (China),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS616,Indonesia,EU – AD/CVD on Stainless Steel (Indonesia),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1

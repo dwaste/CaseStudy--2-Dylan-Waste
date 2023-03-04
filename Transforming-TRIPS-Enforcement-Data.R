@@ -1,7 +1,7 @@
 library(tidyverse)
 library(readxl)
 
-TRIPS.enforcement <- read_excel("/Users/dwaste/Desktop/SOCY-123/CaseStudy-2-Dylan-Waste/TRIPS-enforment.xlsx")
+TRIPS.enforcement <- read_excel("/Users/dwaste/Desktop/SOCY-123/CaseStudy-2-Dylan-Waste/TRIPS-enforcement.xlsx")
 
 # Create function to convert data and NA into binary for indexing
 convert_to_binary <- function(TRIPS.enforcement) {
@@ -16,17 +16,28 @@ TRIPS.int <- cbind(TRIPS.enforcement[,0:3], TRIPS.int)
 
 # Extracting violator state from title
 TRIPS.vio <- TRIPS.int %>%
-  mutate(Violator = str_extract(Title, "^[^\\p{L}]*\\p{L}+"))
+  group_by(Title) %>%
+  mutate(Violator = str_extract(Title, "(?<=^|–\\s)([A-Za-z ]+)(?=\\s-\\s)")) %>%
+  mutate(Violator = recode(Violator, "US" = "United States",
+                           "Russian Federation" = "Russia"))
+
+unique(TRIPS.vio$Violator)
 
 # Creating depth_index for qualitative measure of enforcement
-depth_index <- TRIPS.vio[,4:18] %>%
+index <- TRIPS.vio[,4:18] %>%
   rowwise() %>%
-  mutate(index = sum(c_across(everything())))
+  mutate(depth_index = sum(c_across(everything())))
 
 # merging transformed enforcement data sets
-TRIPS.fin <- cbind(TRIPS.enforcement[,0:3], depth_index)
+TRIPS.dep <- cbind(TRIPS.enforcement, index)
 
-TRIPS <- cbind(TRIPS.fin, TRIPS.vio$Violator)
+TRIPS.fin <- cbind(TRIPS.dep, TRIPS.vio$Violator)
+
+# formatting final dataset
+TRIPS <- TRIPS.fin %>%
+  select(c("Complainant", "Title", "depth_index", "TRIPS.vio$Violator")) %>%
+  rename(Violator = `TRIPS.vio$Violator`) %>%
+  na.omit()
 
 # writing file
 write_csv(TRIPS, file = "/Users/dwaste/Desktop/SOCY-123/CaseStudy-2-Dylan-Waste/TRIPS-Enforcement-Transformed.csv", progress = show_progress())

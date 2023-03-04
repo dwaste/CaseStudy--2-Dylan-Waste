@@ -17,8 +17,9 @@ pta.2013.transformed <- pta.2013 %>%
 
 # selecting relevant data
 pta.2013.summary <- pta.2013.transformed %>%
-  select(c("country_a", "country_b", "avg_depth_index", "gattwto", "contig", "armconflict", "id",
-          "religion", "distln", "comlang_off", "comcol", "comcur", "comleg"))
+  select(c("country_a", "country_b", "avg_depth_index", "polity2_A", "polity2_B", 
+           "gattwto", "contig", "armconflict", "id", "religion", "distln", 
+           "comlang_off", "comcol", "comcur", "comleg"))
 
 # Writing finished file
-write_csv(TRIPS, file = "/Users/dwaste/Desktop/SOCY-123/CaseStudy-2-Dylan-Waste/PTA-2013-Transformed.csv", progress = show_progress())
+write_csv(pta.2013.summary, file = "/Users/dwaste/Desktop/SOCY-123/CaseStudy-2-Dylan-Waste/PTA-2013-Transformed.csv", progress = show_progress())

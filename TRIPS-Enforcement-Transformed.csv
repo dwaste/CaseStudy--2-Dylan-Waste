@@ -1,17 +1,9 @@
 Complainant,Title,depth_index,Violator
 Singapore,Malaysia - Prohibition of Imports of Polyethylene and Polypropylene,2,Malaysia
-Venezuela,US – Gasoline,8,US
-Brazil,US – Gasoline,4,US
 US,Korea - Measures Concerning the Testing and Inspection of Agricultural Products,1,Korea
 US,Korea - Shelf-Life of Products,1,Korea
-Japan,US - 1974 Trade Act,1,US
-Canada,EC – Scallops (Canada),4,EC
-EC,Japan – Alcoholic Beverages II,8,Japan
-Canada,Japan – Alcoholic Beverages II,1,Japan
-US,Japan – Alcoholic Beverages II,1,Japan
+Japan,US - 1974 Trade Act,1,United States
 Canada,EC - Duties on Imports of Cereals,3,EC
-Peru,EC – Scallops (Peru and Chile),6,EC
-Chile,EC – Scallops (Peru and Chile),2,EC
 US,EC - Duties on Imports of Grain,2,EC
 EC,Japan - Measures Affecting the Purchase of Telecommunications Equipment,1,Japan
 Guatemala,"EC - Regime for the Importation, Sale and Distribution of Bananas",1,EC
@@ -20,574 +12,270 @@ Honduras,"EC - Regime for the Importation, Sale and Distribution of Bananas",1,E
 ","EC - Regime for the Importation, Sale and Distribution of Bananas",1,EC
 US,"EC - Regime for the Importation, Sale and Distribution of Bananas",1,EC
 Thailand,EC - Duties on Imports of Rice,1,EC
-Canada,Australia – Salmon,13,Australia
 India,Poland - Import Regime for Automobiles,1,Poland
 Canada,Korea - Measures Concerning the Bottled Water,1,Korea
 US,Australia - Measures Affecting the Importation of Salmonids,2,Australia
-Philippines,Brazil – Desiccated Coconut,8,Brazil
 Mexico,Venezuela - Anti-Dumping Investigation in Respect of Imports of Certain OCTG,1,Venezuela
-Costa Rica,US – Underwear,8,US
 Uruguay,EC - Implementation of the Uruguay Round Commitments Concerning Rice,1,EC
-US,EC – Hormones,8,EC
-Canada,EC – Hormones,5,EC
-Ecuador,EC – Bananas III,12,EC
-Guatemala,EC – Bananas III,9,EC
-Mexico,EC – Bananas III,13,EC
-Honduras,EC – Bananas III,15,EC
-US,EC – Bananas III,8,EC
 US,Japan - Measures Concerning Sound Recordings,1,Japan
 China,Turkey - Restrictions on Imports of Textile and Clothing Products,1,Turkey
 Hong Kong,Turkey - Restrictions on Imports of Textile and Clothing Products,1,Turkey
 Sri Lanka,Brazil - Countervailing Duties on Imports of Desiccated Coconut and Coconut Milk Powder from Sri Lanka,1,Brazil
-US,Canada – Periodicals,8,Canada
-India,US - Measures Affecting Imports of Women's and Girls' Wool Coats,2,US
-India,US – Wool Shirts and Blouses,8,US
-India,Turkey – Textiles,8,Turkey
+India,US - Measures Affecting Imports of Women's and Girls' Wool Coats,2,United States
 "Argentina, Australia, Canada, New Zealand, Thailand, US",Hungary - Export Subsidies in Respect of Agricultural Products,2,Hungary
-US,Pakistan- Patent Protection for Pharmaceutical and Agricultural Chemical Products,2,Pakistan
 US,Portugal - Patent Protection under the Industrial Property Act,1,Portugal
-EC,US - The Cuban Liberty and Democratic Solidarity Act,3,US
-EC,US - Tariff Increases on Products from the EC,2,US
+EC,US - The Cuban Liberty and Democratic Solidarity Act,3,United States
+EC,US - Tariff Increases on Products from the EC,2,United States
 EC,"Korea - Laws, Regulations and Practices in the Telecommunications Procurement Sector",1,Korea
 US,Korea - Measures Concerning Inspection of Agricultural Products,1,Korea
 EC,Japan - Measures Concerning Sound Recordings,1,Japan
 US,Turkey - Taxation of Foreign Film Revenues,2,Turkey
-US,Japan – Film,7,Japan
 US,Japan - Measures Affecting Distribution Services,1,Japan
-Canada,Brazil – Aircraft,15,Brazil
 Thailand,Turkey - Restrictions on Imports of Textile and Clothing Products,1,Turkey
-Mexico,US - Anti-Dumping Investigation Regarding Imports of Fresh or Chilled Tomatoes from Mexico,1,US
-US,India – Patents (US),8,India
+Mexico,US - Anti-Dumping Investigation Regarding Imports of Fresh or Chilled Tomatoes from Mexico,1,United States
 Japan,Brazil - Certain Automotive Investment Measures,1,Brazil
 US,Brazil - Certain Measures Affecting Trade and Investment in the Automotive Sector,1,Brazil
 EC,Mexico - Customs Valuation of Imports,1,Mexico
-EC,Indonesia – Autos,7,Indonesia
-Japan,Indonesia – Autos,4,Indonesia
-US,Indonesia – Autos,4,Indonesia
-Japan,Indonesia – Autos,4,Indonesia
-US,Argentina – Textiles and Apparel,8,Argentina
 US,"Australia - Textile, Clothing and Footwear Import Credit Scheme",1,Australia
-"India, Malaysia, Pakistan, Thailand",US – Shrimp,15,US
-Mexico,Guatemala – Cement I,8,Guatemala
-Philippines,US - Import Prohibition of Certain Shrimp and Shrimp Products,1,US
-US,EC – Computer Equipment,8,EC
-EC,US - Anti-Dumping Measures on Imports of Solid Urea from the Former German Democratic Republic,1,US
+Philippines,US - Import Prohibition of Certain Shrimp and Shrimp Products,1,United States
+EC,US - Anti-Dumping Measures on Imports of Solid Urea from the Former German Democratic Republic,1,United States
 US,Brazil - Certain Measures Affecting Trade and Investment in the Automotive Sector,1,Brazil
 EC,Japan - Measures Affecting Imports of Pork,1,Japan
-Brazil,EC – Poultry,8,EC
-Brazil,Canada – Aircraft,15,Canada
 Brazil,Canada - Measures Affecting the Export of Civilian Aircraft,1,Canada
-New Zealand,EC – Butter,6,EC
 EC,Japan - Procurement of a Navigation Satellite,1,Japan
 US,Philippines - Measures Affecting Pork and Poultry,1,Philippines
-EC,Korea – Alcoholic Beverages,8,Korea
-US,Japan – Agricultural Products II,8,Japan
 EC,"Argentina - Measures Affecting Textiles, Clothing and Footwear",2,Argentina
-Colombia,US - Safeguard Measure Against Imports of Broom Corn Brooms,1,US
-EC,India – Patents (EC),7,India
-US,Belgium   - Measures Affecting Commercial Telephone Directory Services,1,Belgium
+Colombia,US - Safeguard Measure Against Imports of Broom Corn Brooms,1,United States
+US,Belgium   - Measures Affecting Commercial Telephone Directory Services,1,Belgium  
 EC,Brazil - Certain Measures Affecting Trade and Investment in the Automotive Sector,1,Brazil
 US,Ireland - Measures Affecting the Grant of Copyright and neighbouring Rights,2,Ireland
 US,Denmark - Measures Affecting the Reinforcement of Intellectual Property Rights,1,Denmark
-EC,US - Measures Affecting Textiles and Apparel Products,1,US
+EC,US - Measures Affecting Textiles and Apparel Products,1,United States
 US,Sweden - Measures Affecting the Enforcement of Intellectual Property Rights,1,Sweden
-EC,Chile – Alcoholic Beverages,8,Chile
-EC,US - Government Procurement (EU)(Japan,4,US
-Korea,US - Colour Televisions,2,US
-US,India – Quantitative Restrictions,8,India
-Australia,India – Quantitative Restrictions,1,India
-Canada,India – Quantitative Restrictions,1,India
-New Zealand,India – Quantitative Restrictions,1,India
-Switzerland,India – Quantitative Restrictions,1,India
-EC,India – Quantitative Restrictions,1,India
-Chile,US - Countervailing Duty Investigation of Imports of Salmon From Chile,1,US
-EC,Korea – Dairy,8,Korea
-Korea,US – DRAMS,11,US
-EC,US - Measures Affecting Imports of Poultry Products,1,US
+EC,US - Government Procurement (EU)(Japan,4,United States
+Korea,US - Colour Televisions,2,United States
+Chile,US - Countervailing Duty Investigation of Imports of Salmon From Chile,1,United States
+EC,US - Measures Affecting Imports of Poultry Products,1,United States
 US,Mexico - Anti-Dumping Investigation of High-Fructose Corn Syrup (HFCS) from the United States,1,Mexico
 US,Philippines - Measures Affecting Pork and Poultry,1,Philippines
-US,Canada – Dairy,15,Canada
 US,EC - Measures Affecting the Exportation of Processed Cheese,1,EC
 Panama,"EC - Regime for the Importation, Sale and Distribution of Bananas",1,EC
 US,Australia - Subsidies Provided to Producers and Exporters of Automotive Leather,3,Australia
 EC,Pakistan - Export Measures Affecting Hides and Skins,1,Pakistan
-EC,US – FSC,15,US
 US,Chile - Taxes on Alcoholic Beverages,1,Chile
-Argentina,US - Tariff Rate Quota for Imports of Groundnuts,1,US
+Argentina,US - Tariff Rate Quota for Imports of Groundnuts,1,United States
 Brazil,Peru - Countervailing Duty Investigation Against Imports of Buses from Brazil,1,Peru
-EC,Canada – Pharmaceutical Patents,7,Canada
 US,EC - Measures Affecting the Grant of Copyright and Neighbouring Rights,2,EC
 EC,Brazil - Measures Affecting Payment Terms for Imports,1,Brazil
 EC,Canada - Measures Affecting Film Distribution Services,1,Canada
-EC,US - Harbour Maintenance Tax,1,US
+EC,US - Harbour Maintenance Tax,1,United States
 Switzerland,Australia - Anti-Dumping Measures on Imports of Coated Woodfree Paper Sheets,1,Australia
 EC,India - Measures Affecting Export of Certain Commodities,2,India
-EC,Argentina – Footwear (EC),8,Argentina
-Poland,Thailand – H-Beams,8,Thailand
 Indonesia,Argentina - Safeguard Measures on Imports of Footwear,2,Argentina
 US,Greece - Enforcement of Intellectual Property Rights for Motion Pictures and Television Programs,1,Greece
 US,Greece - Enforcement of Intellectual Property Rights for Motion Pictures and Television Programs,1,Greece
-US,Australia – Automotive Leather II,12,Australia
 US,Belgium - Certain Income Tax Measures Constituting Subsidies,1,Belgium
 US,Netherlands - Certain Income Tax Measures Constituting Subsidies,1,Netherlands
 US,Greece - Certain Income Tax Measures Constituting Subsidies,1,Greece
 US,Ireland - Certain Income Tax Measures Constituting Subsidies,1,Ireland
 US,France - Certain Income Tax Measures Constituting Subsidies,1,France
-US,Mexico – Corn Syrup,14,Mexico
-Switzerland,Slovak Republic - Measures Concerning the Importation of Dairy Products and the Transit of Cattle,1,Slovak
+Switzerland,Slovak Republic - Measures Concerning the Importation of Dairy Products and the Transit of Cattle,1,Slovak Republic
 India,EC - Restrictions on Certain Imports of Rice,1,EC
-Canada,EC – Asbestos,8,EC
-EC,US – 1916 Act,8,US
 Canada,EC - Measures Affecting Imports of Wood of Conifers from Canada,1,EC
-EC,US – Lead and Bismuth II,7,US
-Japan,Canada – Autos,7,Canada
 India,EC - Anti-Dumping Investigations Regarding Unbleached Cotton Fabrics from India,1,EC
-India,EC – Bed Linen,14,EC
-Hungary,Slovak Republic - Measure Affecting Import Duty on Wheat from Hungary,1,Slovak
-Canada,"US - Certain Measures Affecting the Import of Cattle, Swine and Grain from Canada",1,US
+Hungary,Slovak Republic - Measure Affecting Import Duty on Wheat from Hungary,1,Slovak Republic
+Canada,"US - Certain Measures Affecting the Import of Cattle, Swine and Grain from Canada",1,United States
 EC,Argentina - Countervailing Duties on Imports of Wheat Gluten from the EC,1,Argentina
-EC,India – Autos,7,India
 EC,Japan - Tariff Quotas and Subsidies Affecting Leather,1,Japan
-Hungary,Czech Republic - Measure Affecting Import Duty on Wheat from Hungary,1,Czech
+Hungary,Czech Republic - Measure Affecting Import Duty on Wheat from Hungary,1,Czech Republic
 EC,India - Import Restrictions,1,India
 EC,India - Measures Affecting Customs Duties,1,India
-EC,US - Measures Affecting Textiles and Apparel Products (II),1,US
-EC,US – Section 301 Trade Act,6,US
+EC,US - Measures Affecting Textiles and Apparel Products (II),1,United States
 Canada,EC - Patent Protection for Pharmaceutical and Agricultural Chemical Products,1,EC
 Brazil,EC - Measures Affecting Differential and Favourable Treatment of Coffee,1,EC
-EC,Argentina – Hides and Leather,6,Argentina
-Mexico,Guatemala – Cement II,7,Guatemala
 EC,Argentina - Definitive Anti-Dumping Measures on Imports of Drill Bits from Italy,1,Argentina
 "Honduras, Mexico, Guatemala, Panama, the US","EC - Regime for the Importation, Sale and Distribution of Bananas",1,EC
 Czech Republic,Hungary - Safeguard Measure on Imports of Steel Products from the Czech Republic,1,Hungary
-EC,US – Section 110(5) Copyright Act,7,US
-US,Korea – Various Measures on Beef,8,Korea
-US,Korea – Procurement,7,Korea
 US,Argentina - Measures Affecting Imports of Footwear,3,Argentina
-EC,US – Certain EC Products,8,US
-EC,US – Wheat Gluten,8,US
-Canada,US - Countervailing Duty Investigation with Respect to Live Cattle from Canada,1,US
-India,South Africa - Anti-Dumping Duties on Certain Pharmaceutical Products from India,1,South
-US,Canada – Patent Term,8,Canada
+Canada,US - Countervailing Duty Investigation with Respect to Live Cattle from Canada,1,United States
+India,South Africa - Anti-Dumping Duties on Certain Pharmaceutical Products from India,1,South Africa
 US,Argentina - Patent Protection for Pharmaceuticals and Test Data Protection for Agricultural Chemicals,1,Argentina
 US,Argentina - Certain Measures on the Protection of Patents and Test Data,1,Argentina
 US,EC - Measures Relating to the Development of a Flight Management System,1,EC
 US,France - Measures Relating to the Development of a Flight Management System,1,France
-US,EC – Trademarks and Geographical Indications,6,EC
-EC,US – Section 211 Appropriations Act,8,US
-New Zealand,US – Lamb,8,US
-Korea,US – Stainless Steel,7,US
-Canada,US - Reclassification of Certain Sugar Syrups,1,US
+Canada,US - Reclassification of Certain Sugar Syrups,1,United States
 Thailand,Colombia - Safeguard Measure on Imports of Plain Polyester Filaments from Thailand,2,Colombia
-Mexico,Ecuador -Provisional Anti-dumping Measures on Gray Portland Cement rom Mexico,1,Ecuador
 EC,Mexico - Measures on Import Licensing and Minimum Import Prices,1,Mexico
-Japan,US – Hot-Rolled Steel,8,US
-Costa Rica,Trinidad and Tobago - Certain Measures Affecting Imports of Pasta from Costa Rica,1,Trinidad
-EC,US - Section 337 of the Tariff Act of 1930 and Amendments Thereto,1,US
-Costa Rica,Trinidad and Tobago- Provisional Anti-Dumping Measure on Imports of Macaroni and Spaghetti from Costa Rica,1,Trinidad
+Costa Rica,Trinidad and Tobago - Certain Measures Affecting Imports of Pasta from Costa Rica,1,Trinidad and Tobago
+EC,US - Section 337 of the Tariff Act of 1930 and Amendments Thereto,1,United States
 Colombia,Nicaragua - Measures Affecting Imports from Honduras and Colombia,3,Nicaragua
-EC,Argentina – Ceramic Tiles,7,Argentina
 Brazil,Brazil - Argentina - Transitional Safeguards Measures on Certain Imports of Woven Fabrics of Cotton ad Cotton Mixtures originating in Brazil,2,Brazil
 Mexico,Ecuador - Definitive Anti-Dumping Measure on Cement from Mexico,1,Ecuador
-Pakistan,US – Cotton Yarn,8,US
 EC,Chile - Measures Affecting the Transit and Importation of Swordfish,2,Chile
-Canada,US – Export Restraints,7,US
 US,Philippines - Measures Affecting Trade and Investment in the Motor Vehicle Sector,3,Philippines
 US,Brazil - Measures on Minimum Import Prices,1,Brazil
 US,Romania - Measures on Minimum Import Prices,1,Romania
 US,Brazil - Measures Affecting Patent Protection,3,Brazil
-EC,US - Section 306 of the Trade Act of 1974 and Amendments Thereto,1,US
+EC,US - Section 306 of the Trade Act of 1974 and Amendments Thereto,1,United States
 Honduras,Nicaragua - Measures Affecting Imports from Honduras and Colombia,1,Nicaragua
-Korea,US – Line Pipe,8,US
 US,Mexico - Measures Affecting Trade in live Swine,1,Mexico
-US,Mexico – Telecoms,7,Mexico
 Thailand,Egypt - import Prohibition on Canned Tuna with Soybean Oil,1,Egypt
-India,US – Steel Plate,7,US
-Argentina,Chile – Price Band System,15,Chile
 Brazil,Turkey - Anti-Dumping Duty on Steel and Iron Pipe Fitting,1,Turkey
 Brazil,EC - Measures Affecting Soluble Coffee,1,EC
 US,Belgium - Administration of Measures Establishing Custom Duties for Rice,4,Belgium
-Turkey,Egypt – Steel Rebar,7,Egypt
-EC,US – Countervailing Measures on Certain EC Products,14,US
-EC,US – Carbon Steel,8,US
-EC,US - Definitive Safeguard Measures on Imports of Steel Wire Rod and Circular Welded Quality Line Pipes,3,US
+EC,US - Definitive Safeguard Measures on Imports of Steel Wire Rod and Circular Welded Quality Line Pipes,3,United States
 Korea,Philippines - Anti-Dumping Measures Regarding Polypropylene Resins from Korea,1,Philippines
 Brazil,Mexico - Provisional Anti-Dumping Measure on Electric Transformers,1,Mexico
-"Australia, Brazil, Chile, EC, India, Indonesia, Japan, Korea, Thailand",US – Offset Act (Byrd Amendment),8,US
-Brazil,US - Countervailing Duties on Certain Carbon Steel Products from Brazil,1,US
-Brazil,EC – Tube or  Pipe Fittings,8,EC
+Brazil,US - Countervailing Duties on Certain Carbon Steel Products from Brazil,1,United States
 Guatemala,Chile - Price Band and Safeguard Measures Relating to Certain Agricultural Products,1,Chile
-Canada,US – Section 129(c)(1) UREA,7,US
-Brazil,Canada –Aircraft Credits and Guarantees,7,Canada
 US,EC - Tariff-Rate Quota on Corn Gluten Feed from the US,1,EC
-Brazil,US - US Patent Code,1,US
-EC,US - Anti-Dumping Duties on Seamless Pipe from Italy,1,US
+Brazil,US - US Patent Code,1,United States
+EC,US - Anti-Dumping Duties on Seamless Pipe from Italy,1,United States
 Argentina,Chile - Provisional Safeguard Measure on Mixture of Edible Oils,1,Chile
 Chile,Peru - Taxes on Cigarettes,3,Peru
 Colombia,Chile - Safeguard Measures on Sugar,1,Chile
 India,Brazil - Anti-Dumping Duties on Jute Bags from India,1,Brazil
 Colombia,Chile - Safeguard Measures and Modification of Schedules Regarding Sugar,1,Chile
-Peru,EC – Sardines,8,EC
 Chile,Mexico - Measures Affecting the Import of Matches,1,Mexico
 India,Argentina - Measures Affecting the Import of Pharmaceutical Products,1,Argentina
 Poland,Slovakia - Safeguard Measure on Imports of Sugar,1,Slovakia
-Canada,US – Softwood Lumber III,7,US
 Ecuador,Turkey - Certain Import Procedures for Fresh Fruit,3,Turkey
-Chile,Argentina – Preserved Peaches,7,Argentina
-Brazil,US - Certain Measures Regarding Anti-Dumping,1,US
+Brazil,US - Certain Measures Regarding Anti-Dumping,1,United States
 Hungary,Romania - Import Prohibition on Wheat and Wheat Flour,1,Romania
-Brazil,Argentina –  Poultry Anti-Dumping Duties,7,Argentina
 Thailand,EC - Generalized System of Preferences,2,EC
-India,US – Textiles Rules of Origin,7,US
-Japan,US – Corrosion-Resistant Steel Sunset Review,8,US
-US,Japan – Apples,14,Japan
-India,EC – Tariff Preferences,8,EC
-Canada,US - Provisional Anti-Dumping Measure on Imports of Certain Softwood Lumber from Canada,1,US
-EC,US – Steel Safeguards,8,US
-Japan,US – Steel Safeguards,3,US
-Korea,US – Steel Safeguards,3,US
-China,US – Steel Safeguards,3,US
-Switzerland,US – Steel Safeguards,3,US
-Norway,US – Steel Safeguards,3,US
-New Zealand,US – Steel Safeguards,3,US
-Brazil,US – Steel Safeguards,3,US
-Brazil,US - Equalizing Excise Tax Imposed By Florida on Processed Orange and Grapefruit Products,2,US
+Canada,US - Provisional Anti-Dumping Measure on Imports of Certain Softwood Lumber from Canada,1,United States
+Brazil,US - Equalizing Excise Tax Imposed By Florida on Processed Orange and Grapefruit Products,2,United States
 Chile,Peru - Tax Treatment on Certain Imported Products,2,Peru
 Hungary,Turkey - Import Ban on Pet Food from Hungary,1,Turkey
-Canada,US – Softwood Lumber IV,15,US
 US,EC - Provisional Safeguard Measures on Imports of Certain Steel Products,3,EC
-Chile,Uruguay- Tax Treatment on Certain Products,2,Uruguay
-EC,US - Sunset Reviews of Anti-Dumping and Countervailing Duties on Certain Steel Products from France and Germany,1,US
+EC,US - Sunset Reviews of Anti-Dumping and Countervailing Duties on Certain Steel Products from France and Germany,1,United States
 Argentina,EC - Measures Affecting Imports of Wine,1,EC
-Canada,US – Softwood Lumber V,15,US
-Australia,EC – Export Subsidies on Sugar,8,EC
-Brazil,US – Upland Cotton,15,US
-Argentina,US – Oil Country Tubular Goods Sunset Reviews,15,US
-Brazil,EC – Chicken Cuts,8,EC
-Philippines,Australia- Certain Measures Affecting the Importation of Fresh Fruit and Vegetables,3,Australia
 Philippines,Australia - Certain Measures Affecting the Importation of Fresh Pineapple,1,Australia
 Argentina,Peru - Provisional Anti-Dumping Duties on Vegetable Oils from,1,Peru
-EC,Korea – Commercial Vessels,7,Korea
-Chinese Taipei,US - Definitive Safeguard Measures on Imports of Certain Steel Products,1,US
+Chinese Taipei,US - Definitive Safeguard Measures on Imports of Certain Steel Products,1,United States
 US,Venezuela - Import Licensing Measures on Certain Agricultural Products,1,Venezuela
-US,Canada – Wheat Exports and Grain Imports,8,Canada
-Canada,US – Softwood Lumber VI,14,US
 Argentina,Chile - Definitive Safeguard Measure on Imports of Fructose,1,Chile
 EC,India - Import Restrictions Maintained under the Export and Import Policy 2002-2007,1,India
-Mexico,US - Countervailing Duties on Steel Plate from Mexico,3,US
-Mexico,US - Anti-Dumping Measures on Cement from Mexico,2,US
-Mexico,US – Anti-Dumping Measures on OCTG,11,US
+Mexico,US - Countervailing Duties on Steel Plate from Mexico,3,United States
+Mexico,US - Anti-Dumping Measures on Cement from Mexico,2,United States
 Nicaragua,Mexico - Certain Measures Preventing the Importation of Black Beans from Nicaragua,1,Mexico
-Antigua and Barbuda,US – Gambling,14,US
 EC,Australia - Quarantine Regime for Imports,2,Australia
-Turkey,South Africa - Definitive Anti-Dumping Measures on Blanketing from Turkey,1,South
-Poland,Czech Republic - Additional Duty on Imports of Pig-Meat from Poland,1,Czech
-US,EC – Approval and Marketing of Biotech Products,7,EC
-EC,US – Zeroing (EC),15,US
-US,Mexico – Anti-Dumping Measures on Rice,8,Mexico
-Korea,US – Countervailing Duty Investigation on DRAMs,8,US
+Turkey,South Africa - Definitive Anti-Dumping Measures on Blanketing from Turkey,1,South Africa
+Poland,Czech Republic - Additional Duty on Imports of Pig-Meat from Poland,1,Czech Republic
 Hungary,Croatia - Measure Affecting Imports of Live Animals and Meat Products,1,Croatia
 Guatemala,Mexico - Certain Pricing Measures for Customs Valuation and other Purposes,1,Mexico
-Korea,EC – Countervailing Measures on DRAM Chips,7,EC
-Honduras,Dominican Republic - Measures Affecting the Importation of Cigarettes,1,Dominican
-Korea,EC – Commercial Vessels,7,EC
-Honduras,Dominican Republic –  Import and Sale of Cigarettes,8,Dominican
+Honduras,Dominican Republic - Measures Affecting the Importation of Cigarettes,1,Dominican Republic
 Chile,Ecuador - Definitive Safeguard Measure on Imports of Medium Density Fibreboard,1,Ecuador
 EC,India - Anti-Dumping Measures on Imports of Certain Products from the EC and/or member States,1,India
 US,Egypt - Measures Affecting Imports of Textile and Apparel Products,1,Egypt
 Bangladesh,India - Anti-Dumping Measure on Batteries from Bangladesh,1,India
 Korea,EC - Aid for Commercial Vessels,1,EC
-US,Mexico – Taxes on Soft Drinks,8,Mexico
 US,China - Value-Added Tax on Integrated Circuits,1,China
-Canada,US - Determination of the ITC in Hard Red Spring Wheat from Canada,2,US
-Canada,US - Reviews of Countervailing Duty on Softwood Lumber from Canada,1,US
-Indonesia,Korea – Certain Paper,13,Korea
+Canada,US - Determination of the ITC in Hard Red Spring Wheat from Canada,2,United States
+Canada,US - Reviews of Countervailing Duty on Softwood Lumber from Canada,1,United States
 India,EC - Anti-Dumping Duties on Certain Flat Rolled Iron or Non-Alloy Steel Products from India,1,EC
 EC,Mexico - Provisional Countervailing Measures on Olive Oil from the EC,1,Mexico
-United States,EC – Selected Customs Matters,8,EC
-United States,EC and certain member States – Large Civil Aircraft,15,EC
-EC,US - Measures Affecting Trade in Large Civil Aircraft,2,US
+EC,US - Measures Affecting Trade in Large Civil Aircraft,2,United States
 Chinese Taipei,India - Anti-Dumping Measures on Certain Products from Chinese Taipei,1,India
-EC,US - Section 776 of the Tariff Act of 1930,1,US
-EC,US – Continued Suspension,8,US
-EC,Canada – Continued Suspension,8,Canada
-Japan,US – Zeroing (Japan),15,US
-Korea,Japan – Quotas on Laver,5,Japan
-Thailand,US - Provisional Anti-Dumping Measures on Shrimp from Thailand,1,US
-Mexico,US - Anti-Dumping Determination Regarding Stainless Steel from Mexico,1,US
+EC,US - Section 776 of the Tariff Act of 1930,1,United States
+Thailand,US - Provisional Anti-Dumping Measures on Shrimp from Thailand,1,United States
+Mexico,US - Anti-Dumping Determination Regarding Stainless Steel from Mexico,1,United States
 Chile,EC - Definitive Safeguard Measure on Salmon,1,EC
 Pakistan,Egypt - Anti-Dumping Duties on Matches from Pakistan,2,Egypt
 Norway,EC - Definitive Safeguard Measure on Salmon,1,EC
 Mexico,Panama - Tariff Classification of Certain Milk Products,1,Panama
 EC,"Argentina - Countervailing Duties on Olive Oil, Wheat Gluten and Peaches",1,Argentina
-Guatemala,Mexico – Steel Pipes and Tubes,7,Mexico
-EC,Brazil – Retreaded Tyres,8,Brazil
-Costa Rica,Dominican Republic - Foreign Exchange Fee Affecting Imports from Costa Rica,1,Dominican
-US,Turkey – Rice,7,Turkey
-Ecuador,US – Shrimp (Ecuador),6,US
-Korea,Japan – DRAMs (Korea),11,Japan
-Norway,EC – Salmon (Norway),6,EC
+Costa Rica,Dominican Republic - Foreign Exchange Fee Affecting Imports from Costa Rica,1,Dominican Republic
 US,Canada - Provisional Anti-Dumping and Countervailing Duties on Grain Corn from the United States,1,Canada
-EC,China – Auto Parts,8,China
-EC,Mexico – Olive Oil,7,Mexico
-Thailand,US – Shrimp (Thailand),8,US
-India,US – Customs Bond Directive,8,US
-Mexico,US – Stainless Steel,12,US
-Argentina,US - Anti-Dumping Administrative Review on Oil Country Tubular Goods from Argentina,1,US
-US,EC and certain member States – Large Civil Aircraft (Second Complaint),4,EC
+Argentina,US - Anti-Dumping Administrative Review on Oil Country Tubular Goods from Argentina,1,United States
 Panama,Colombia - Customs Measures on Importation of Certain Goods from Panama,1,Colombia
 Argentina,EC - Measures Affecting the Tariff Quota for Fresh or Chilled Garlic,1,EC
-EC,US – Continued Zeroing,8,US
 Argentina,Chile - Milk Safeguards,4,Chile
 EC,India - Wines and Spirits,4,India
-EC,US – Large Civil Aircraft (2nd complaint),15,US
 EC,Canada - Tax Exemptions and Reductions from Wine and Beer,1,Canada
 Argentina,Brazil - Anti-Dumping Measures on  Resins,4,Brazil
-Canada,US - Subsidies and Other Domestic Support for Corn and Other Agricultural Products,3,US
+Canada,US - Subsidies and Other Domestic Support for Corn and Other Agricultural Products,3,United States
 US,"China - Certain Measures Granting Refunds, Reductions or Exemptions from Taxes and Other Payments",2,China
 Mexico,"China - Certain Measures Granting Refunds, Reductions or Exemptions from Taxes and Other Payments",2,China
-US,India – Additional Import Duties,8,India
 Colombia,EC - Regime for the Importation of Bananas,1,EC
 Panama,EC - Regime for the Importation of Bananas,1,EC
-US,China – Intellectual Property Rights,6,China
-US,China – Publications and Audiovisual Products,8,China
-Brazil,US - Domestic Support and Export Credit Guarantees for Agricultural Products,3,US
-Panama,Colombia – Ports of Entry,6,Colombia
-New Zealand,Australia – Apples,8,Australia
-China,US - Preliminary Anti-Dumping and Countervailing Duty Determinations on Coated Free Sheet Paper from China,1,US
+Brazil,US - Domestic Support and Export Credit Guarantees for Agricultural Products,3,United States
+China,US - Preliminary Anti-Dumping and Countervailing Duty Determinations on Coated Free Sheet Paper from China,1,United States
 Canada,EC - Certain Measures Prohibiting the Importation and Marketing of Seal Products,3,EC
 EC,Thailand - Customs Valuation of Certain Products from the EC,1,Thailand
-Philippines,Thailand – Cigarettes (Philippines),13,Thailand
 EC,China - Measures Affecting Financial Information Services and Foreign Financial Suppliers,1,China
 US,China - Measures Affecting Financial Services and Foreign Financial Suppliers,1,China
-Indonesia,South Africa - Anti-Dumping Measures on Uncoated Woodfree Paper,1,South
-US,EC – IT Products,6,EC
+Indonesia,South Africa - Anti-Dumping Measures on Uncoated Woodfree Paper,1,South Africa
 Canada,China - Measures Affecting Financial Information Services and Foreign Financial Information Suppliers,1,China
-China,US – Anti-Dumping and Countervailing Duties (China),8,US
 EC,India - Certain Taxes and Other Measures on Imported Wines and Spirits,1,India
-Mexico,US – Tuna II (Mexico),15,US
-Brazil,US – Orange Juice,6,US
-Thailand,US – Anti-Dumping Measures on PET Bags,6,US
-Canada,US – COOL,15,US
 India,EC - Expiry Reviews of Anti-Dumping and Countervailing Duties Imposed on Imports of PET from India,1,EC
 US,"China - Grants, Loans and Other Incentives",1,China
 Mexico,"China - Grants, Loans and Other Incentives",1,China
 US,EC - Certain Measures Affecting Poultry Meat and Poultry Meat Products from the US,3,EC
 Guatemala,"China - Grants, Loans and Other Incentives",1,China
-Canada,Korea – Bovine Meat (Canada),6,Korea
-China,US – Poultry (China),6,US
 Argentina,Chile - Anti-Dumping Measures on Imports of Wheat Flour from Argentina,1,Chile
-US,China – Raw Materials,8,China
-EC,Philippines – Distilled Spirits,8,Philippines
-China,EC – Fasteners (China),15,EC
-China,US – Tyres (China),8,US
-Canada,EC – Seal Products,8,EC
-Korea,US – Zeroing (Korea),7,US
-Viet Nam,US – Shrimp (Viet Nam),7,US
-China,EU – Footwear (China),7,EU
-Indonesia,US – Clove Cigarettes,8,US
 EU,China - Provisional Anti-Dumping Duties on Certain Iron and Steel Fasteners,1,China
-India,EU and a member state - Seizure of Generic Drugs in Transit,1,EU
-Brazil,EU and a member state - Seizure of Generic Drugs in Transit,1,EU
+India,EU and a member state - Seizure of Generic Drugs in Transit,1,EU and a member state
+Brazil,EU and a member state - Seizure of Generic Drugs in Transit,1,EU and a member state
 Peru,Argentina - Anti-Dumping Duties on Fasteners and Chains from Peru,1,Argentina
 Ukraine,Armenia - Measures Affecting the Importation and Internal Sale of Cigarettes and Alcoholic Beverages,2,Armenia
-Japan,Canada – Renewable Energy,8,Canada
-EU,Canada – Feed-In Tariff Program,4,Canada
-US,China – Electronic Payment Services,6,China
-US,China – GOES,12,China
-El Salvador,Dominican Republic – Safeguard Measures,6,Dominican
 US,China - Measures Concerning Wind Power Equipment,1,China
-Korea,US - Anti-Dumping Measures on Corrosion-Resistant Carbon Steel Flat Products from Korea,3,US
+Korea,US - Anti-Dumping Measures on Corrosion-Resistant Carbon Steel Flat Products from Korea,3,United States
 Ukraine,Moldova - Measures Affecting the Importation and Internal Sale of Goods (Environmental Charge),3,Moldova
-China,US – Shrimp and Diamond Sawblades,7,US
 Moldova,Ukraine - Taxes on Distilled Spirits,3,Ukraine
-EU,US - Anti-Dumping Measures on Imports of Stainless Steel Sheet and Strip in Coils from Italy,1,US
-EU,China – X-Ray Equipment,6,China
-US,China – Broiler Products,11,China
+EU,US - Anti-Dumping Measures on Imports of Stainless Steel Sheet and Strip in Coils from Italy,1,United States
 India,Turkey - Safeguard Measures on Imports of Cotton Yarn (Other than Sewing Thread),1,Turkey
-Viet Nam,US – Shrimp II (Viet Nam),8,US
-US,India – Agricultural Products,11,India
-US,China – Rare Earths,8,China
-EU,China – Rare Earths,8,China
-Japan,China – Rare Earths,6,China
-Ukraine,Australia – Tobacco Plain Packaging,4,Australia
-Honduras,Australia – Tobacco Plain Packaging,8,Australia
-Dominican Republic,Australia – Tobacco Plain Packaging,8,Australia
-Cuba,Australia – Tobacco Plain Packaging,8,Australia
-Indonesia,Australia – Tobacco Plain Packaging,8,Australia
-India,US – Carbon Steel (India),13,US
-China,US – Countervailing Measures (China),15,US
-EU,Argentina – Import Measures,8,Argentina
-US,Argentina – Import Measures,8,Argentina
-Brazil,South Africa - Anti-Dumping Duties on Frozen Meat of Fowls from Brazil,1,South
-US,China – Autos (US),7,China
-Indonesia,EU – Fatty Alcohols (Indonesia),7,EU
-Argentina,EU and a member state - Certain Measures Concerning the Importation of Biodiesels,2,EU
+Brazil,South Africa - Anti-Dumping Duties on Frozen Meat of Fowls from Brazil,1,South Africa
+Argentina,EU and a member state - Certain Measures Concerning the Importation of Biodiesels,2,EU and a member state
 Mexico,Argentina - Measures Affecting the Importation of Goods,2,Argentina
-Argentina,US - Animals,7,US
-Argentina,US - Measures Affecting the importation of Fresh Lemons,2,US
-China,US – Countervailing and Anti‑Dumping Measures (China),8,US
+Argentina,US - Animals,7,United States
+Argentina,US - Measures Affecting the importation of Fresh Lemons,2,United States
 US,China - Certain Measures Affecting the Automobile and Automobile Parts Industries,1,China
 Mexico,China - Measures Relating to the Production and Exportation of Apparel and Textile Products,1,China
-China,EU and certain member states - Certain Measures Affecting the Renewable Energy Generation Sector,1,EU
-Panama,Argentina – Financial Services,8,Argentina
-Japan,China – HP-SSST(Japan),8,China
-EU,China – HP-SSST (EU),4,China
+China,EU and certain member states - Certain Measures Affecting the Renewable Energy Generation Sector,1,EU and certain member states
 US,"Indonesia - Importation of Horticultural Products, Animals and Animal Products",3,Indonesia
-US,India – Solar Cells,10,India
-Guatemala,Peru – Agricultural Products,8,Peru
-Argentina,EU and certain member states - Certain Measures on the Importation and Marketing of Biodiesel and Measures Supporting the Biodiesel Industry,1,EU
-Panama,Colombia – Textiles,13,Colombia
-EU,Russian Federation - Recycling Fee on Motor Vehicles,3,Russian
-Japan,Russian Federation - Recycling Fee on Motor Vehicles,1,Russian
-Korea,US – Washing Machines,8,US
+Argentina,EU and certain member states - Certain Measures on the Importation and Marketing of Biodiesel and Measures Supporting the Biodiesel Industry,1,EU and certain member states
+EU,Russian Federation - Recycling Fee on Motor Vehicles,3,Russia
+Japan,Russian Federation - Recycling Fee on Motor Vehicles,1,Russia
 US,"Indonesia - Importation of Horticultural Products, Animals and Animal Products",1,Indonesia
 New Zealand,"Indonesia - Importation of Horticultural Products, Animals and Animal Products",1,Indonesia
-Japan,Ukraine – Passenger Cars,7,Ukraine
 Denmark - Faroe Islands,EU - Measures on Atlanto-Scandian Herring,3,EU
 Indonesia,Pakistan - Anti-Dumping and Countervailing Duty Investigations on Certain Paper Products from Indonesia,2,Pakistan
-China,US – Anti-Dumping Methodologies  (China),8,US
-Japan,Brazil – Taxation,8,Brazil
-EU,Brazil – Taxation,4,Brazil
-Argentina,EU – Biodiesel,8,EU
 Russian Federation,EU - Cost Adjustment Methodologies and Certain Anti-Dumping Measures on Imports from Russia,3,EU
-EU,Russia – Pigs (EU),11,Russia
-Russia,EU – Energy Package,6,EU
-New Zealand,Indonesia – Import Licensing Regimes,8,Indonesia
-US,"Indonesia — Importation of Horticultural Products, Animals and Animal Products",2,Indonesia
-EU,Russia – Commercial Vehicles,8,Russia
-Russia,EU – Biodiesel (Indonesia),6,EU
 EU,Indonesia - Recourse to Article 22.2 of the DSU in the US - Clove Cigarettes Dispute,1,Indonesia
-Chinese Taipei,Canada – Welded Pipe,6,Canada
-Canada,China – Cellulose Pulp,6,China
 Brazil,Indonesia - Chicken,11,Indonesia
-EU,Russia – Tariff Treatment,6,Russia
-Pakistan,EU – PET (Pakistan),8,EU
-EU,US – Tax Incentives,7,US
-Korea,US – OCTG (Korea),6,US
 US,China - Measures Related to Demonstration Bases and Common Service Platforms Programmes,3,China
 Chinese Taipei,Indonesia - Iron or Steel Products (Chinese Taipei) (Viet Nam),8,Indonesia
-Indonesia,US ‑ Coated Paper from Indonesia,6,US
 China,EU - Poultry Meat (China),6,EU
-Russian Federation,Ukraine – Ammonium Nitrate (Russia),8,Ukraine
-Russian Federation,EEU – Cost Adjustment Methodologies II (Russia),6,EEU
-Japan,Korea – Radionuclides,8,Korea
 Chinese Taipei,India - Anti-Dumping Duties on USB Flash Drives from Chinese Taipei,1,India
 Ukraine,Russia - Railway Equipment,8,Russia
-Pakistan,South Africa - Provisional Anti-Dumping Duties on Portland Cement from Pakistan,1,South
+Pakistan,South Africa - Provisional Anti-Dumping Duties on Portland Cement from Pakistan,1,South Africa
 US,China - Tax Measures Concerning Certain Domestically Produced Aircraft,1,China
-EU,Colombia – Spirits,3,Colombia
-India,US - Measures Concerning the Non-Immigrant Visas,1,US
+India,US - Measures Concerning the Non-Immigrant Visas,1,United States
 Japan,Korea - Pneumatic Valves (Japan),8,Korea
-Canada,US – Supercalendered Paper,8,US
-Brazil,Indonesia – Measures Concerning the Importation of Bovine Meat,1,Indonesia
-Brazil,Thailand – Measures Concerning Sugar,1,Thailand
-US,China – Export Duties on Certain Raw Materials,3,China
-EU,China –Duties and Other Measures Concerning the Exportation of Certain Raw Materials,3,China
-India,United States – Certain Measures Relating to the Renewable Energy Sector,6,United
-US,China – Agricultural Producers,8,China
-Ukraine,Russia – Traffic in Transit,6,Russia
 Turkey,Morocco - Hot-Rolled Steel  (Turkey),8,Morocco
-Brazil,United States – Countervailing Measures on Cold- and Hot-Rolled Steel Flat Products from Brazil,1,United
-China,United States – Measures Related to Price Comparison Methodologies,1,United
-China,EU – Price Comparison Methodologies,4,EU
-US,China – TRQs,8,China
-Japan,India – Iron and Steel Products,6,India
 US,China - Subsidies to Producers of Primary Aluminium,1,China
-US,Canada – Measures Governing the Sale of Wine in Grocery Stores,1,Canada
-Russia,EU – Anti-Dumping Measures on Certain Cold-Rolled Flat Steel Products from Russia,4,EU
-Brazil,Canada – Commercial Aircraft,4,Canada
-Turkey,US - Pipes and Tubes (Turkey),6,US
-Mexico,Costa Rica – Measures Concerning the Importation of Fresh Avocados from Mexico,5,Costa
-Russia,Ukraine – Measures Relating to Trade in Goods and Services,1,Ukraine
-Qatar,"UAE – Goods, Services and IP rights",4,UAE
-Qatar,"Bahrain – Measures Relating to Trade in Goods and Services, and Trade-Related Aspects of Intellectual Property Rights",1,Bahrain
-Qatar,"Saudi Arabia – Measures Relating to Trade in Goods and Services, and Trade-Related Aspects of Intellectual Property Rights",1,Saudi
-Indonesia,Australia – Anti-Dumping Measures on A4 Copy Paper,6,Australia
-Ukraine,Kazakhstan – Anti-Dumping Measures on Steel Pipes,1,Kazakhstan
-US,Canada – Measures Governing the Sale of Wine in Grocery Stores (Second Complaint),3,Canada
-Ukraine,Russia – Measures concerning the Importation and Transit of Certain Ukrainian Products,1,Russia
-Canada,US – Softwood Lumber VII,6,US
-Canada,US – Differential Pricing Methodology,6,US
-Canada,United States – Certain Systemic Trade Remedies Measures,1,United
-Viet Nam,United States – Anti-Dumping Measures on Fish Fillets from Viet Nam,4,United
-Australia,Canada – Measures Governing the Sale of Wine,5,Canada
-UAE,Pakistan – Anti-Dumping Measures on Biaxially Oriented Polypropylene Film from the United Arab Emirates,6,Pakistan
-Korea,US – Anti-dumping and Countervailing Duties on Certain Products and the Use of Facts Available,6,US
-Viet Nam,US – Certain Measures Concerning Pangasius Seafood Products from Viet Nam,1,US
-US,India – Export Related Measures,6,India
+Turkey,US - Pipes and Tubes (Turkey),6,United States
 US,China - Intellectual Property Rights II,4,China
-China,US - Tariff Measures on Certain Goods from China,6,US
-China,US - Certain Measures on Steel and Aluminium Products,6,US
-Korea,US – Safeguard Measure on PV Products,3,US
-Korea,US – Safeguard Measure on Washers,5,US
-India,US - Certain Measures on Steel and Aluminium Products,4,US
-EU,United States – Certain Measures on Steel and Aluminium Products,4,United
+China,US - Tariff Measures on Certain Goods from China,6,United States
+China,US - Certain Measures on Steel and Aluminium Products,6,United States
+India,US - Certain Measures on Steel and Aluminium Products,4,United States
 EU,China - Certain Measures on the Transfer of Technology,1,China
-Canada,United States – Certain Measures on Steel and Aluminium Products,5,United
-Mexico,United States – Certain Measures on Steel and Aluminium Products,5,United
-Norway,United States – Certain Measures on Steel and Aluminium Products,6,United
 Japan,Korea - Sunset Review of Anti-Dumping Duties on Stainless Steel Bars,5,Korea
-Russia,United States – Certain Measures on Steel and Aluminium Products,4,United
 Tunisia,Morocco - Provisional Anti-Dumping Measures on School Exercise Books from Tunisia,1,Morocco
-Switzerland,United States – Certain Measures on Steel and Aluminium Products,6,United
-US,Canada – Additional Duties on Certain Products from the United States,5,Canada
 US,China - Additional Duties on Certain Products from the United States,4,China
 US,EU - Additional Duties on Certain Products from the United States,4,EU
 US,Mexico - Additional Duties on Certain Products from the United States,5,Mexico
 US,Turkey - Additional Duties on Certain Products from the United States,4,Turkey
-China,US – Safeguard Measure on PV Products (China),5,US
-China,United States – Certain Measures Related to Renewable Energy,1,United
-Turkey,United States – Certain Measures on Steel and Aluminium Products,6,United
-China,United States – Tariff Measures on Certain Goods from China II,2,United
-US,Russia – Additional Duties on Certain Products from the United States,4,Russia
-Qatar,Saudi Arabia – IPRs,6,Saudi
-Brazil,China – Certain Measures concerning Imports of Sugar,1,China
-Ukraine,Kyrgyz Republic – Anti-Dumping Measures on Steel Pipes,1,Kyrgyz
-Ukraine,Armenia – Anti-Dumping Measures on Steel Pipes,1,Armenia
 Japan,Korea - Measures affecting Trade in Commercial Vessels (Japan),1,Korea
-Argentina,Peru – Anti-Dumping and Countervailing Measures on Biodiesel from Argentina,1,Peru
-Thailand,Turkey – Additional Duties on Imports of Air Conditioning Machines from Thailand,4,Turkey
-Venezuela,US - Goods and Services (Venezuela),2,US
+Venezuela,US - Goods and Services (Venezuela),2,United States
 Venezuela,Colombia - Liquid Fuels,1,Colombia
-UAE,Qatar – Certain Measures Concerning Goods from the United Arab Emirates,3,Qatar
-EU,US - Ripe Olives from Spain,6,US
-Tunisia,Morocco – Definitive AD Measures on Exercise Books (Tunisia),6,Morocco
-Brazil,India – Measures concerning Sugar and Sugarcane,6,India
-Australia,India – Measures concerning Sugar and Sugarcane,6,India
-Guatemala,India – Measures concerning Sugar and Sugarcane,6,India
-EU,India – Tariffs on ICT Products (EU),3,India
-EU,Turkey – Pharmaceutical Products (EU),4,Turkey
-Japan,India – Tariff Treatment on Certain Goods,4,India
-US,India – Additional Duties,4,India
-Russia,United States – Carbon-Quality Steel (Russia),1,United
-China,United States – Tariff Measures on Certain Goods from China III,1,United
-Chinese Taipei,India – Tariffs on ICT Goods (Chinese Taipei),4,India
+EU,US - Ripe Olives from Spain,6,United States
 Canada,China - Canola Seed (Canada),3,China
 Korea,Japan - Products and Technology (Korea),3,Japan
-EU,Colombia – Frozen Fries,4,Colombia
-EU,Indonesia – Measures Relating to Raw Materials,6,Indonesia
-Indonesia,EU – Palm Oil (Indonesia),4,EU
-Japan,Korea – Commercial Vessels (Second Complaint) (Japan),1,Korea
-Turkey,EU – Safeguard Measures on Certain Steel Products,6,EU
 Peru,Brazil - PET film and other Products ,1,Brazil
-"Hong Kong, China",United States - Origin Marking Requirement,6,United
-Australia,China – AD/CVD on Barley (Australia),4,China
-Costa Rica,Panama – Import Measures (Costa Rica),4,Panama
-Malaysia,EU and Certain Member States – Palm Oil (Malaysia),4,EU
+"Hong Kong, China",United States - Origin Marking Requirement,6,United States
 Japan,China - AD on Stainless Steel (Japan),4,China
-Australia,China – AD/CVD on Wine (Australia),4,China
-China,Australia – AD/CVD on Certain Products (China),4,Australia
-EU,Russia – Domestic and Foreign Products and Services,4,Russia
-Costa Rica,Dominican Republic – AD on Steel Bars (Costa Rica),4,Dominican
 Saudi Arabia,EU - Provisional AD Duty on MEG (Saudi Arabia),1,EU
-Brazil,EU – Poultry Meat Preparations (Brazil),1,EU
 EU,Russia - Wood (EU),1,Russia
-EU,Egypt – Import Registration Requirements (EU),1,Egypt
-EU,China – Goods and Services (EU),2,China
-EU,China – IPRs Enforcement (EU),2,China
-EU,UK – CfD Local Content (EU),1,UK
 South Africa,EU - Citrus Fruit (South Africa),1,EU
-Argentina,Peru – Biodiesel (Argentina),1,Peru
-China,US – Semiconductors (China),1,US
-Indonesia,EU – AD/CVD on Stainless Steel (Indonesia),1,EU
